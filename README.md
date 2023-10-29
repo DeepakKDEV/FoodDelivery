@@ -105,12 +105,13 @@ http://localhost:8080/get//Delete/by/id/{id}
 ```java
  http://localhost:8080/swagger-ui/index.html#/
 ```
-Admin & User Controller![Admin & User](https://github.com/DeepakKDEV/ApicrudOperation/assets/142679882/3ffa9c83-5e04-4dec-b136-ae1478df7eee)
+Admin & User Controller![Screenshot_10](https://github.com/DeepakKDEV/FoodDelivery/assets/142679882/399bebb1-d5c0-43eb-8929-0e246b7c3337)
 
 
 ## :seven: View in mySql Database
 
-![Screenshot_10](https://github.com/DeepakKDEV/FoodDelivery/assets/142679882/399bebb1-d5c0-43eb-8929-0e246b7c3337)
+![Screenshot_8](https://github.com/DeepakKDEV/FoodDelivery/assets/142679882/c48a3e77-abeb-4fbd-a5ae-5ad440fd3254)
+
 
 
 
